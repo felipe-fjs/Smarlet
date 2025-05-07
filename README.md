@@ -1,2 +1,2 @@
-# acompanha_gasto
+# Smarlet: sua carteira inteligente!
 
